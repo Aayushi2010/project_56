@@ -1,0 +1,10 @@
+img src{
+    width:140px;
+    height:50px;
+}
+p{
+    text-decoration-color: darkorange;
+}
+html{
+    background-color: linear-gradient(180deg, rgba(234,240,156,1) 1%, rgba(234,240,156,1) 42%, rgba(110,241,116,1) 94%);
+}
